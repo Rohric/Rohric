@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/Dev-HTML%20%7C%20CSS%20%7C%20Flutter%20%7C%20Dart-informational" />
   <img src="https://img.shields.io/badge/Gamer-Strategy%20%7C%20RPG%20%7C%20Action-blue" />
   <img src="https://img.shields.io/badge/Languages-DE%20%7C%20RU%20%7C%20EN-brightgreen" />
-  <img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&label=Profile%20views&style=flat" />
+  
+
 </p>
 
 ---
