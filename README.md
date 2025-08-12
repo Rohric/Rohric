@@ -22,10 +22,27 @@
 
 ---
 
-### 🎮 Love for Gaming
-> **Assassin’s Creed:** *“Nothing is true; everything is permitted.”*  
-> **Kingdom Hearts:** *“My friends are my power.”*  
-> **Pirates of the Caribbean:** *“Take what you can; give nothing back!”*
+### ❤️ Love for Media
+
+#### 🎮 Gaming
+- **Assassin’s Creed** – *“Nothing is true; everything is permitted.”*
+- **Kingdom Hearts** – *“My friends are my power.”*
+- **Far Cry** – 
+
+#### 🎬 Movies
+- **Pirates of the Caribbean** – *“Take what you can; give nothing back!”*
+- **Harry Potter** – 
+- **Monsters, Inc.** – 
+
+#### 📺 Series
+- **How I Met Your Mother** – *“Have you met Ted?”*
+- **Peaky Blinders** – *“By order of the Peaky Blinders.”*
+- **Scrubs** – *“Eagle!”*
+
+#### 🎌 Anime
+- **Attack on Titan** – 
+- **Demon Slayer** – 
+- **Steins;Gate** – 
 
 ---
 
