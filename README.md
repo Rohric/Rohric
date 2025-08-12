@@ -1,28 +1,30 @@
-<!-- Profile README for Emil Marsal -->
+<!-- Animated Profile README for Emil Marsal -->
 
-<h1 align="center">Emil Marsal</h1>
 <p align="center">
-  <em>Late 20s | Saarbrücken, Capital of Saarland | Developer in the making</em><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=700&lines=Emil+Marsal;Developer+in+the+making;Gaming+Nerd+%7C+Harry+Potter+%7C+AC+%7C+KH;German–Russian+roots;Time+to+think+big+again." alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Dev-HTML%20%7C%20CSS%20%7C%20Flutter%20%7C%20Dart-informational" />
   <img src="https://img.shields.io/badge/Gamer-Strategy%20%7C%20RPG%20%7C%20Action-blue" />
   <img src="https://img.shields.io/badge/Languages-DE%20%7C%20RU%20%7C%20EN-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&label=Profile%20views&style=flat" />
 </p>
 
 ---
 
 ### 👋 Profile
 - **Name:** Emil Marsal  
-- **Born:** January 29, 1997 in **Saarbrücken** (capital of Saarland, Germany)  
+- **Born:** January 29, 1997 — **Saarbrücken** (capital of Saarland, Germany)  
 - **Background:** German–Russian — one foot in both worlds, proud of both  
 - **Nerd Level:** small ⚡ *Harry Potter* nerd, big 🎮 gaming nerd  
 
 ---
 
-### 🧭 Love for Gaming
-- **Assassin’s Creed:** *“Nothing is true; everything is permitted.”*  
-  _Meaning (Ezio):_ Question assumptions, see the world for what it truly is, and act responsibly with your freedom.  
-- **Kingdom Hearts:** *“My friends are my power.”*  
-- **Pirates of the Caribbean:** *“Take what you can; give nothing back!”*  
+### 🎮 Love for Gaming
+> **Assassin’s Creed:** *“Nothing is true; everything is permitted.”*  
+> **Kingdom Hearts:** *“My friends are my power.”*  
+> **Pirates of the Caribbean:** *“Take what you can; give nothing back!”*
 
 ---
 
@@ -30,16 +32,24 @@
 **Time to think big again.**  
 Late twenties, in debt, trusted the wrong people, rebuilding from scratch — from **financial advisor** to **software developer**.
 
+<details>
+<summary>More context (click)</summary>
+
+- I’m switching careers into software dev and focusing on clean, practical code.  
+- Love building small tools with big impact and learning by shipping.
+
+</details>
+
 ---
 
 ### 🛠️ Skills & Stack
 - **Learning:** HTML, CSS, Git/GitHub, Flutter & Dart  
-- **Interests:** Game dev mechanics, UI/UX, small tools with big impact  
+- **Interests:** Game dev mechanics, UI/UX, small tools with big impact
 
 ---
 
 ### 🌐 Languages
-- German • Russian • English  
+- German • Russian • English
 
 ---
 
@@ -47,5 +57,23 @@ Late twenties, in debt, trusted the wrong people, rebuilding from scratch — fr
 ```text
 1997 — Born in Saarbrücken
 2020 — Finance / Financial Advisory
-2025 — Career change & focus on software development
+2025 — Career change: Software Development
 Goal — Write clean, practical code and ship products
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=DEIN_USERNAME&hide_border=true" alt="GitHub Streak" /> </p>
+
+const emilMarsal = {
+  name: "Emil Marsal",
+  born: { date: "1997-01-29", city: "Saarbrücken", region: "Saarland", country: "Germany" },
+  heritage: "German–Russian",
+  quotes: [
+    { source: "Assassin's Creed", text: "Nothing is true; everything is permitted." },
+    { source: "Kingdom Hearts", text: "My friends are my power." },
+    { source: "Pirates of the Caribbean", text: "Take what you can; give nothing back!" }
+  ],
+  about: "Late twenties, rebuilding from scratch — from financial advisor to software developer.",
+  languages: ["German", "Russian", "English"],
+  learning: ["HTML", "CSS", "Git/GitHub", "Flutter", "Dart"],
+  interests: ["Gaming", "UI/UX", "Game Dev"]
+};
+
