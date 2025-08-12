@@ -18,13 +18,10 @@
 
 ---
 
-### 🧭 Motto & Lieblingszitate
+### 🧭 Love for Gaming 
 - **Assassin’s Creed:** *“Nothing is true; everything is permitted.”*  
-  _Sinngemäß (Ezio):_ Hinterfrage Annahmen, sieh die Welt, wie sie wirklich ist, und handle verantwortlich mit deiner Freiheit.
 - **Kingdom Hearts:** *“My friends are my power.”*
 - **Pirates of the Caribbean:** *“Take what you can; give nothing back!”*
-
-> _Hinweis:_ Den kompletten Ezio-Monolog kann ich aus Urheberrechtsgründen hier nicht vollständig abdrucken – ich hab die Essenz oben zusammengefasst.
 
 ---
 
