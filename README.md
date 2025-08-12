@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Dev-HTML%20%7C%20CSS%20%7C%20Flutter%20%7C%20Dart-informational" />
   <img src="https://img.shields.io/badge/Gamer-Strategy%20%7C%20RPG%20%7C%20Action-blue" />
   <img src="https://img.shields.io/badge/Languages-DE%20%7C%20RU%20%7C%20EN-brightgreen" />
-  
-
 </p>
 
 ---
@@ -41,7 +39,7 @@
 
 #### 🎌 Anime
 - **Attack on Titan** – 
-- **Demon Slayer** – 
+- **Demon Slayer** –
 - **Steins;Gate** – 
 
 ---
@@ -49,20 +47,6 @@
 ### 🧱 About Me
 **Time to think big again.**  
 Late twenties, in debt, trusted the wrong people, rebuilding from scratch — from **financial advisor** to **software developer**.
-
-<details>
-<summary>More context (click)</summary>
-
-- I’m switching careers into software dev and focusing on clean, practical code.  
-- Love building small tools with big impact and learning by shipping.
-
-</details>
-
----
-
-### 🛠️ Skills & Stack
-- **Learning:** HTML, CSS, Git/GitHub, Flutter & Dart  
-- **Interests:** Game dev mechanics, UI/UX, small tools with big impact
 
 ---
 
@@ -72,26 +56,14 @@ Late twenties, in debt, trusted the wrong people, rebuilding from scratch — fr
 ---
 
 ### 💼 Mini-Timeline
-```text
-1997 — Born in Saarbrücken
-2020 — Finance / Financial Advisory
-2025 — Career change: Software Development
-Goal — Write clean, practical code and ship products
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=DEIN_USERNAME&hide_border=true" alt="GitHub Streak" /> </p>
+- 1997 — Born in Saarbrücken
+- 2020 — Finance / Financial Advisory
+- 2025 — Career change: Software Development
+- Goal — Write clean, practical code and ship products
 
-const emilMarsal = {
-  name: "Emil Marsal",
-  born: { date: "1997-01-29", city: "Saarbrücken", region: "Saarland", country: "Germany" },
-  heritage: "German–Russian",
-  quotes: [
-    { source: "Assassin's Creed", text: "Nothing is true; everything is permitted." },
-    { source: "Kingdom Hearts", text: "My friends are my power." },
-    { source: "Pirates of the Caribbean", text: "Take what you can; give nothing back!" }
-  ],
-  about: "Late twenties, rebuilding from scratch — from financial advisor to software developer.",
-  languages: ["German", "Russian", "English"],
-  learning: ["HTML", "CSS", "Git/GitHub", "Flutter", "Dart"],
-  interests: ["Gaming", "UI/UX", "Game Dev"]
-};
+
+
+
+
 
