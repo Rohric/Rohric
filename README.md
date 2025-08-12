@@ -38,13 +38,13 @@ Late twenties, in debt, trusted the wrong people, rebuilding from scratch — fr
 ---
 
 ### 🌐 Sprachen
-- Deutsch (C2) • Russisch (C1) • Englisch (B2–C1)
+- Deutsch  • Russisch  • Englisch 
 
 ---
 
 ### 💼 Mini-Timeline
 ```text
 1997 — geboren in Saarbrücken
-201x — Finanzen/Finanzberatung
+2020 — Finanzen/Finanzberatung
 2025 — Umschulung & Fokus: Softwareentwicklung
 Ziel — Sauberen, praxisnahen Code bauen und Produkte shippen
