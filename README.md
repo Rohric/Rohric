@@ -21,7 +21,7 @@
 **Born:** January 29, 1997 — in Saarbrücken, capital of Saarland, Germany  
 **Current Path:** From financial advisor ➝ rebuilding life as a software developer  
 **Self:** Big nerd. No time, but love for gaming.  
-A **Potterhead — by order of the f***ing Peaky Blinders.**  
+A **Potterhead — by order of the f*ing Peaky Blinders.**  
 
 </div>
 
@@ -80,27 +80,42 @@ A **Potterhead — by order of the f***ing Peaky Blinders.**
 <details>
   <summary><b>🎬 Movies</b></summary>
 
-- *“Take what you can, give nothing back!”* — **Pirates’ Code**  
-- *“The ones that love us never really leave us.”* — **Sirius Black**  
-- *“There’s nothing more toxic or deadly than a human child.”* — **Roz (Monsters, Inc.)**  
+> *“Take what you can, give nothing back!”*  
+> — **Pirates’ Code** 
+ 
+>  *“The ones that love us never really leave us.”*  
+> — **Sirius Black**
+
+> *“There’s nothing more toxic or deadly than a human child.”*  
+>  — **Roz (Monsters, Inc.)**  
 
 </details>
 
 <details>
   <summary><b>📺 Series</b></summary>
 
-- *“Nothing good happens after 2 a.m.”* — **Ted Mosby**  
-- *“By order of the Peaky Blinders.”* — **Thomas Shelby**  
-- *“Nothing worth having comes easy.”* — **Dr. Kelso**  
+>  *“Nothing good happens after 2 a.m.”*  
+> — **Ted Mosby**
+
+> *“By order of the Peaky Blinders.”*  
+> — **Thomas Shelby**
+
+> *“Nothing worth having comes easy.”*  
+>  — **Dr. Kelso**  
 
 </details>
 
 <details>
   <summary><b>🎌 Anime</b></summary>
 
-- *“This world is cruel. But it’s also very beautiful.”* — **Mikasa Ackerman**  
-- *“Don’t stop! Run! You must go on living!”* — **Kyojuro Rengoku**  
-- *“No one knows what the future holds. That’s why its potential is infinite.”* — **Okabe Rintarou**  
+> *“This world is cruel. But it’s also very beautiful.”*  
+> — **Mikasa Ackerman**
+
+>  *“Don’t stop! Run! You must go on living!”*  
+> — **Kyojuro Rengoku**
+
+>  *“No one knows what the future holds. That’s why its potential is infinite.”*  
+> — **Okabe Rintarou**  
 
 </details>
 
