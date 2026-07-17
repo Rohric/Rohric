@@ -13,14 +13,12 @@
 <h1 align="center">👋 Hi, I'm Emil Marsal</h1>
 <h3 align="center">Fullstack Developer — Python/Django &amp; Angular</h3>
 
-<p align="center">
-  <a href="https://emil-marsal.de">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-emil--marsal.de-00C2FF?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://kanmind.emil-marsal.de">
-    <img src="https://img.shields.io/badge/🚀_Live_Project-kanmind.emil--marsal.de-2EA44F?style=for-the-badge" alt="Kanmind Live" />
-  </a>
-</p>
+<h3 align="center">
+  <a href="https://emil-marsal.de">🌐 Visit my Portfolio → emil-marsal.de</a>
+</h3>
+<h3 align="center">
+  <a href="https://kanmind.emil-marsal.de">🚀 Try my Live Project → kanmind.emil-marsal.de</a>
+</h3>
 
 ---
 
