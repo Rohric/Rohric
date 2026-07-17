@@ -13,9 +13,7 @@
 <h1 align="center">👋 Hi, I'm Emil Marsal</h1>
 <h3 align="center">Fullstack Developer — Python/Django &amp; Angular</h3>
 
-<h3 align="center">
-  <a href="https://emil-marsal.de">🌐 Visit my Portfolio → emil-marsal.de</a>
-</h3>
+
 <h3 align="center">
   <a href="https://kanmind.emil-marsal.de">🚀 Try my Live Project → kanmind.emil-marsal.de</a>
 </h3>
